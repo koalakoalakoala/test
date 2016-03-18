@@ -1,0 +1,47 @@
+@media screen and (max-device-width: 1024px) {
+
+}
+@media screen and (max-device-width: 980px) {
+
+}
+@media screen and (max-device-width: 720px) {
+
+}
+
+@media screen and (max-device-width: 320px) {
+    .ybk-header{
+        width: 100%;
+    }
+    .ybk-logo{
+        width: 40%;
+        float: left;
+    }
+    .ybk-logo p{
+        font-size: .2rem;
+    }
+    .ybk-nav{
+        width: 60%;
+        float: right;
+    }
+    .ybk-menu{
+
+    }
+    .ybk-nav li{
+        list-style: none;
+        float: left;
+        padding: .1rem .15rem;
+        font-size: .22rem;
+    }
+    .ybk-menu a{
+        text-decoration: none;
+        color: #ababab;
+    }
+    .ybk-banner{
+        font-size: 0;
+        background-color: #eeeff3;
+
+    }
+    .ybk-banner1{
+        margin: 0 auto;
+    }
+}

@@ -1941,7 +1941,7 @@ pre code {
     width: 100%;
   }
   .col-md-7 {
-    width: 58.33333333%;
+  /*  width: 58.33333333%;*/
   }
   .col-md-6 {
     width: 50%;
